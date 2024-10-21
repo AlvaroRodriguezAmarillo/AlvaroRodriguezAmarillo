@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Álvaro Rodríguez Amarillo, un desarrollador web en proceso de aprendizaje y estudiante en Ilerna Sevilla.
+### 👋 ¡Hola! Soy Álvaro Rodríguez Amarillo, un desarrollador web Full Stack.
 
 👨‍💻 Me especializo en el desarrollo web, donde utilizo mis habilidades en HTML, CSS y JavaScript entre otras, para diseñar interfaces de usuario intuitivas y atractivas.
 
